@@ -1,0 +1,79 @@
+{
+  "theme": "terminal",
+  "featured": [],
+  "hidden": [],
+  "overrides": {
+    "AutoFit": {
+      "title": "AutoFit",
+      "description": "AI-based pose tracking and repetitions counter to help everyone do the workout.",
+      "demo": "https://aiworkout.profematika.com/",
+      "image": ""
+    },
+    "Weather-Data-Regression-Analysis-Project": {
+      "title": "Weather-Data-Regression-Analysis-Project",
+      "description": "This project applies and compares 3 different regression algorithms on a Weather History dataset to predict temperature values. It demonstrates how different regression techniques perform on the same dataset, with visualizations to aid in understanding model behavior and performance.",
+      "demo": "",
+      "image": ""
+    },
+    "op": {
+      "title": "op",
+      "description": "Self-hosted platform to unify wearable health data through one AI-ready API.",
+      "demo": "https://docs.openwearables.io",
+      "image": ""
+    },
+    "0xMrMasry": {
+      "title": "0xMrMasry",
+      "description": "About me",
+      "demo": "https://github.com/0xMrMasry/whoami",
+      "image": ""
+    },
+    "voyage-ai": {
+      "title": "voyage-ai",
+      "description": "PHP client for the Voyage AI API — text embeddings, multimodal embeddings (text, images, video), and reranking.",
+      "demo": "https://www.voyageai.com",
+      "image": ""
+    },
+    "laravel-ai": {
+      "title": "laravel-ai",
+      "description": "The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more.",
+      "demo": "",
+      "image": ""
+    },
+    "dokploy": {
+      "title": "dokploy",
+      "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+      "demo": "https://dokploy.com/",
+      "image": ""
+    },
+    "nxt-lnk": {
+      "title": "nxt-lnk",
+      "description": "Custom bio links for creatives who love coding. A perfect custom alternative for linktree, bio and other shortner platform. ",
+      "demo": "https://nxtlnk.xyz",
+      "image": ""
+    },
+    "system-design-101": {
+      "title": "system-design-101",
+      "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "demo": "https://blog.bytebytego.com/",
+      "image": ""
+    },
+    "ITI-Front-End": {
+      "title": "ITI-Front-End",
+      "description": "",
+      "demo": "https://0xmrmasry.github.io/ITI-Front-End/",
+      "image": ""
+    },
+    "git-and-github": {
+      "title": "git-and-github",
+      "description": "GTI and GitHub Documentation: This documentation provides comprehensive guidelines for using GTI (Git Tool Interface) and GitHub, covering key functionalities, setup processes, and best practices.",
+      "demo": "",
+      "image": ""
+    },
+    "MagiskOnWSA": {
+      "title": "MagiskOnWSA",
+      "description": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)",
+      "demo": "",
+      "image": ""
+    }
+  }
+}
